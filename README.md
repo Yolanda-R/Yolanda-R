@@ -1,6 +1,6 @@
 ### 💻Bienvenido, Mi nombre es Yolanda Rojas 👋
 <!--
-![image](https://github.com/Yolanda-R/Yolanda-R/assets/126679693/a3d59a5f-62d4-4ce2-b10f-e34dc35c38e9)
+![](https://github.com/Yolanda-R/Yolanda-R/blob/main/software-testing-logo.png)
 
 **Yolanda-R/Yolanda-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
