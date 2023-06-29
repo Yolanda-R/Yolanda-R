@@ -1,5 +1,7 @@
- ### 💻Bienvenido, Mi nombre es Yolanda Rojas 👋 
- ![](https://github.com/Yolanda-R/Yolanda-R/blob/main/SOFTWARE%20TESTING.jpg)
+<div align="center">
+<h1 align="center">💻Bienvenido, Mi nombre es Yolanda Rojas 👋 </h1>
+</div>
+<img src="https://github.com/Yolanda-R/Yolanda-R/blob/main/SOFTWARE%20TESTING.jpg">
 <!--
 **Yolanda-R/Yolanda-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
