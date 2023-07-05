@@ -7,8 +7,17 @@
 
 <h2>📜Lenguajes and ⚙️Tools</h2>
 <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original-wordmark.svg" title="JIRA" alt="JIRA" width="40" 
-    height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/Yolanda-R/Yolanda-R/main/img/gherkin.jpg" title="Lenguaje Gherkin para ejecucion de pruebas manuales" alt="JIRA" width="50" height="50"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/Yolanda-R/Yolanda-R/main/img/JIRA.jpg" title="Gestor de incidencias" alt="JIRA" width="50" 
+    height="50"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/Yolanda-R/Yolanda-R/main/img/confluence.jpg" title="Documentacion pruebas" alt="JIRA" width="50" 
+    height="50"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/Yolanda-R/Yolanda-R/main/img/MYSQL.jpg" title="Gestor de bases de datos" alt="JIRA" width="50" 
+    height="50"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/Yolanda-R/Yolanda-R/main/img/vscode.jpg" title="Editor de código" alt="VSCODE" width="50" 
+    height="50"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/Yolanda-R/Yolanda-R/main/img/git.jpg" title="Repositorio" alt="Git & Github" width="50" 
+    height="50"/>&nbsp;
 </div>
 
 <!--
