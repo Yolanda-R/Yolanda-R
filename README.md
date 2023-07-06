@@ -16,7 +16,7 @@
     height="50"/>&nbsp;
     <img src="https://raw.githubusercontent.com/Yolanda-R/Yolanda-R/main/img/vscode.jpg" title="Editor de código" alt="VSCODE" width="50" 
     height="50"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/Yolanda-R/Yolanda-R/main/img/git.jpg" title="Repositorio" alt="Git & Github" width="50" 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Repositorio" alt="Git & Github" width="50" 
     height="50"/>&nbsp;
 </div>
 
