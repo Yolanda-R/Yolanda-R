@@ -8,18 +8,18 @@
 <h2>📜Lenguajes and ⚙️Tools</h2>
 <div> 
     <img src="https://raw.githubusercontent.com/Yolanda-R/Yolanda-R/main/img/gherkin.jpg" title="Lenguaje Gherkin para ejecucion de pruebas manuales" alt="JIRA" width="50" height="50"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/Yolanda-R/Yolanda-R/main/img/JIRA.jpg" title="Gestor de incidencias" alt="JIRA" width="50" 
-    height="50"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/Yolanda-R/Yolanda-R/main/img/confluence.jpg" title="Documentacion pruebas" alt="JIRA" width="50" 
-    height="50"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/Yolanda-R/Yolanda-R/main/img/MYSQL.jpg" title="Gestor de bases de datos" alt="JIRA" width="50" 
-    height="50"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/Yolanda-R/Yolanda-R/f19551cfaabe69c965b36c7935f5c07fbdcb4a61/img/vscode-original-wordmark.svg" title="Editor de código" alt="VSCODE" width="50" 
-    height="50"/>&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Repositorio" alt="Git & Github" width="50" 
-    height="50"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/Yolanda-R/Yolanda-R/f19551cfaabe69c965b36c7935f5c07fbdcb4a61/img/github-original-wordmark.svg" title="Repositorio" alt="Git & Github" width="50" 
-    height="50"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/Yolanda-R/Yolanda-R/main/img/JIRA.jpg" title="Gestor de incidencias" alt="JIRA" width="40" 
+    height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/Yolanda-R/Yolanda-R/main/img/confluence.jpg" title="Documentacion pruebas" alt="JIRA" width="40" 
+    height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/Yolanda-R/Yolanda-R/main/img/MYSQL.jpg" title="Gestor de bases de datos" alt="JIRA" width="40" 
+    height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/Yolanda-R/Yolanda-R/f19551cfaabe69c965b36c7935f5c07fbdcb4a61/img/vscode-original-wordmark.svg" title="Editor de código" alt="VSCODE" width="40" 
+    height="40"/>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Repositorio" alt="Git & Github" width="40" 
+    height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/Yolanda-R/Yolanda-R/f19551cfaabe69c965b36c7935f5c07fbdcb4a61/img/github-original-wordmark.svg" title="Repositorio" alt="Git & Github" width="40" 
+    height="40"/>&nbsp;
 </div>
 
 <!--
