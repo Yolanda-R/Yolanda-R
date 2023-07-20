@@ -5,22 +5,20 @@
 <!-- parrafo de presentacion del perfil-->
 <p>Apasionada por la tecnologia especialmente enfocandome en la calidad del software </p>
 
-<h2>📜Lenguajes and ⚙️Tools</h2>
-<div> 
-    <img src="https://raw.githubusercontent.com/Yolanda-R/Yolanda-R/main/img/gherkin.jpg" title="Lenguaje Gherkin para ejecucion de pruebas manuales" alt="JIRA" width="50" height="50"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/Yolanda-R/Yolanda-R/main/img/JIRA.jpg" title="Gestor de incidencias" alt="JIRA" width="40" 
-    height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/Yolanda-R/Yolanda-R/main/img/confluence.jpg" title="Documentacion pruebas" alt="JIRA" width="40" 
-    height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/Yolanda-R/Yolanda-R/main/img/MYSQL.jpg" title="Gestor de bases de datos" alt="JIRA" width="40" 
-    height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/Yolanda-R/Yolanda-R/f19551cfaabe69c965b36c7935f5c07fbdcb4a61/img/vscode-original-wordmark.svg" title="Editor de código" alt="VSCODE" width="40" 
-    height="40"/>&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Repositorio" alt="Git & Github" width="40" 
-    height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/Yolanda-R/Yolanda-R/f19551cfaabe69c965b36c7935f5c07fbdcb4a61/img/github-original-wordmark.svg" title="Repositorio" alt="Git & Github" width="40" 
-    height="40"/>&nbsp;
-</div>
+<h2>Tecnologías:</h2>
+
+[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
+[![Youtube](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](--)
+[![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](--)
+[![Vsc](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](--)
+
+
+<h2>Encuentrame en:</h2>
+
+[![email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://sujeitoprogramador.com)
+[![Youtube](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
+
 
 <!--
 **Yolanda-R/Yolanda-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
