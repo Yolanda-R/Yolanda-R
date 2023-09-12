@@ -3,7 +3,8 @@
 </div>
 <img src="https://github.com/Yolanda-R/Yolanda-R/blob/main/Testing.jpg">
 <!-- parrafo de presentacion del perfil-->
-<p>Apasionada por la tecnologia especialmente enfocandome en la calidad del software </p>
+<p>Con 11 meses de experiencia como analista, desarrollé la habilidad para analizar procesos y datos. Mi enfoque actual se centra en la documentación y reporte de tareas en el área de pruebas QA. Adquirí competencias en el dominio de Jira para definir, diseñar, implementar y ejecutar pruebas, así como habilidades en MySQL para la interacción con bases de datos. Utilizo Postman para pruebas API y colaboro eficazmente con equipos a través de GitHub. Mi compromiso con la mejora continua, capacidad de aprendizaje y habilidades de trabajo en equipo son esenciales para aportar valor al éxito de los proyectos.
+</p>
 
 <h2>Tecnologías:</h2>
 
